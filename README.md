@@ -13,4 +13,4 @@ This project is a basic **Quantum Circuit Simulator** built in C++ with an **Emb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/QuantumSimulator.git
+   git clone https://github.com/FitAdam/QuantumSimulator
