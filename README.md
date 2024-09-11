@@ -9,8 +9,3 @@ This project is a basic **Quantum Circuit Simulator** built in C++ with an **Emb
 - **Measurement**: Collapses the qubit's state based on probability amplitudes.
 - **Control Interface**: Simulated interface for communicating with embedded systems (to be extended).
   
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FitAdam/QuantumSimulator
